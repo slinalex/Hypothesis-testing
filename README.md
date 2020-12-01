@@ -29,4 +29,4 @@ copy and pasted into the file university_towns.txt.
 From Bureau of Economic Analysis, US Department of Commerce, the GDP over time of the United States 
 in current dollars (chained value in 2009 dollars), in quarterly intervals, in the file gdplev.xls. 
 
-For this project, I only look at GDP data from the first quarter of 2000 onward.
+For this project I only look at GDP data from the first quarter of 2000 onward.
