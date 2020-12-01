@@ -1,4 +1,4 @@
-# Hypothesis-testing
+# Hypothesis testing
 
 In this project I test the following hypothesis: university towns in the US have their mean housing prices
 less effected by recessions. I run a t-test to compare the ratio of the mean price of houses in university
